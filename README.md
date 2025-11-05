@@ -22,7 +22,7 @@ The website represents **Kiri's Kitchen**, a cozy family-owned restaurant in San
 
 ## Screenshots
 
-![Banner](restaurant.jpg)  
+![Banner](screenshot.png)  
 
 
 ---
