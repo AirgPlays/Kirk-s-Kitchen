@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+header {
+  background: #6b8e23;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+h1 { 
+
+  Font-size: 24px; 
+  Color: black; 
+  font-family: sans-serif;
+} 
+
+h2 {
+  Color: #6b8e23;
+  
+  
+  
+}
+
+
+
+p { 
+
+  Font-size: 16px; 
+  Color: black; 
+  Font-family: serif; 
+}
+
+img { 
+  border-radius: 10px; 
+}
+
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px; 
+  margin: 0 auto;
+  text-align: center;
+}
+
+#banner_contents {
+  width: 800px;
+}
+
+small {
+  color: black;
+  
+}
+
+#images {
+  white-space: nowrap;
+  border-radius: 4px;
+  padding: 5px;
+  width: 10px;
+}
+
+h4 {
+font-family: inherit;
+  font-size: 18px;
+}
+
+h5 {
+  color: black;
+font-family: serif
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background: #6b8e23;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+main {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.intro {
+  margin-bottom: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.restaurant img {
+  width: 800px;
+}
+
+.menu {
+  margin-bottom: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.testimonials {
+  margin-bottom: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.testimonials-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.testimonial {
+  text-align: center;
+  margin: 25px;
+}
